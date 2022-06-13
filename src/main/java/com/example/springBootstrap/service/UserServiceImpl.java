@@ -1,8 +1,8 @@
 package com.example.springBootstrap.service;
 
 import com.example.springBootstrap.model.User;
-import com.example.springBootstrap.Repositories.RoleRepository;
-import com.example.springBootstrap.Repositories.UserRepository;
+import com.example.springBootstrap.repositories.RoleRepository;
+import com.example.springBootstrap.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.security.core.userdetails.UserDetails;

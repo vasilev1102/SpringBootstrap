@@ -1,4 +1,4 @@
-package com.example.springBootstrap.Repositories;
+package com.example.springBootstrap.repositories;
 
 import com.example.springBootstrap.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;

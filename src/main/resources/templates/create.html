@@ -60,7 +60,7 @@
                                 <input th:name="surname" th:type="text" class="form-control" id="surname" required/>
                                 <br>
                                 <label for="age"><b>Age</b></label>
-                                <input th:name="age" th:type="number" class="form-control" id="age"/>
+                                <input th:name="age" th:type="number" th:min="0" class="form-control" id="age"/>
                                 <br>
                                 <label for="email"><b>Email</b></label>
                                 <input th:name="email" th:type="text" class="form-control" id="email" required/>

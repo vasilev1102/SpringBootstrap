@@ -1,6 +1,6 @@
 package com.example.springBootstrap.service;
 
-import com.example.springBootstrap.Repositories.RoleRepository;
+import com.example.springBootstrap.repositories.RoleRepository;
 import com.example.springBootstrap.model.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
